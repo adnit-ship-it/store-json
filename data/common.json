@@ -89,10 +89,15 @@
       "desktop": "24px"
     }
   },
-  "protectedPages": ["home", "about", "contact", "products"],
+  "protectedPages": [
+    "home",
+    "about",
+    "contact",
+    "products"
+  ],
   "strings": {
-    "pageTitle": "Serenova",
-    "pageDescription": "Serenova is a company that provides a service to help people lose weight.",
+    "pageTitle": "Serenova test",
+    "pageDescription": "test Serenova is a company that provides a service to help people lose weight.",
     "buttons": {
       "next": "Next",
       "submitToProvider": "Submit to Provider",
